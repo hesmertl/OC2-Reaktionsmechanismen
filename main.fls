@@ -1,6 +1,6 @@
-PWD c:\Users\WIN11\Desktop\OC2 Reaktionsmechanismen
+PWD c:\Users\WIN11\Desktop\OC2-Reaktionsmechanismen
 INPUT C:\Users\WIN11\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\WIN11\Desktop\OC2 Reaktionsmechanismen\main.tex
+INPUT c:\Users\WIN11\Desktop\OC2-Reaktionsmechanismen\main.tex
 OUTPUT main.log
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
