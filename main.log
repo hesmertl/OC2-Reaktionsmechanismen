@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.1)  9 APR 2026 09:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.1)  9 APR 2026 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -200,27 +200,34 @@ Package pdftex.def Info: Bilder/trimerisierung von Acetaldehyd.png  used on inpu
 File: Bilder/Nucleophile Addition an Carbonylen.png Graphic file (type png)
 <use Bilder/Nucleophile Addition an Carbonylen.png>
 Package pdftex.def Info: Bilder/Nucleophile Addition an Carbonylen.png  used on input line 37.
-(pdftex.def)             Requested size: 350.33727pt x 108.69205pt.
+(pdftex.def)             Requested size: 300.29344pt x 93.16664pt.
+<Bilder/Nucleophile-addition-mit-aktivierung.png, id=14, 657.2053pt x 359.09157pt>
+File: Bilder/Nucleophile-addition-mit-aktivierung.png Graphic file (type png)
+<use Bilder/Nucleophile-addition-mit-aktivierung.png>
+Package pdftex.def Info: Bilder/Nucleophile-addition-mit-aktivierung.png  used on input line 42.
+(pdftex.def)             Requested size: 400.38872pt x 218.77156pt.
 
 
-[2 <./Bilder/Protonierung-von-Carbonylen.png> <./Bilder/trimerisierung von Acetaldehyd.png> <./Bilder/Nucleophile Addition an Carbonylen.png>] (main.aux)
+[2 <./Bilder/Protonierung-von-Carbonylen.png> <./Bilder/trimerisierung von Acetaldehyd.png> <./Bilder/Nucleophile Addition an Carbonylen.png>]
+
+[3 <./Bilder/Nucleophile-addition-mit-aktivierung.png>] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3098 strings out of 469959
- 53537 string characters out of 5469835
+ 3105 strings out of 469959
+ 53914 string characters out of 5469835
  446644 words of memory out of 5000000
- 29881 multiletter control sequences out of 15000+600000
+ 29888 multiletter control sequences out of 15000+600000
  631080 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,229b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,229b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (2 pages, 105495 bytes).
+Output written on main.pdf (3 pages, 119344 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

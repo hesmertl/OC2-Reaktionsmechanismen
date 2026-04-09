@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1775719935.76777 "c:/Users/WIN11/Desktop/OC2-Reaktionsmechanismen/main.tex" "main.pdf" "main" 1775719937.54817 0
+["pdflatex"] 1775720353.21014 "c:/Users/WIN11/Desktop/OC2-Reaktionsmechanismen/main.tex" "main.pdf" "main" 1775720354.37434 0
   "Bilder/Nucleophile Addition an Carbonylen.png" 1775718189 9511 8cdcd11416e977b8eb56e0603e870e08 ""
+  "Bilder/Nucleophile-addition-mit-aktivierung.png" 1775720170 19849 2b54a7f8bb9f805f2ed1f769347dc897 ""
   "Bilder/Protonierung-von-Carbonylen.png" 1775710452 17999 e64b2d5d6128326f9d25ea078bd84fdb ""
   "Bilder/trimerisierung von Acetaldehyd.png" 1775710452 36072 f9712197de51a2c0c1e106c7baa776e8 ""
   "C:/Users/WIN11/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766503337 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -46,10 +47,10 @@
   "C:/Users/WIN11/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1730544106 2671 70891d50dac933918b827d326687c6e8 ""
   "C:/Users/WIN11/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1730544106 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
   "C:/Users/WIN11/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1744045856 30366 9174e170fd3bb912f901db16e9e9ee8b ""
-  "c:/Users/WIN11/Desktop/OC2-Reaktionsmechanismen/main.tex" 1775719932 929 100b3589606c41f762b230db996f6dd3 ""
-  "main.aux" 1775719937 762 6ca6ce5f545e87a5e511c9b88d4d7140 "pdflatex"
-  "main.tex" 1775719932 929 100b3589606c41f762b230db996f6dd3 ""
-  "main.toc" 1775719937 417 8dd2f4fa07c91a35f447b3404ef43eb4 "pdflatex"
+  "c:/Users/WIN11/Desktop/OC2-Reaktionsmechanismen/main.tex" 1775720350 1183 c7b423b510d28750a0c11f9ac6974970 ""
+  "main.aux" 1775720354 867 51c862dce58497e5b81aa3ce23095dae "pdflatex"
+  "main.tex" 1775720350 1183 c7b423b510d28750a0c11f9ac6974970 ""
+  "main.toc" 1775720354 481 3765f60252bd3b0e8cd9f8878dc69997 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
